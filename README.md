@@ -9,7 +9,7 @@
 - 📫 Feel free to reach me out **parshadk04@gmail.com**
 
 <br/>
-<img align='left' src="" width="100%">
+<img align='left' src="./bg-img.jpg" width="100%">
 <br/>
 <h1 align="left">Connect with me:</h1>
 <p align="center">
