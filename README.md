@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,md,mongodb,firebase,react,tailwind,vite,nextjs,express,nodejs,postman,c,cpp,py&perline=10" />
   </a>
 </p>
-<div align="center">
+
 <hr/>
     
 ## 📆📈My Github Stats:
@@ -39,7 +39,7 @@
   <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parshadk&show_icons=true&theme=transparent" height="175" alt="stats" /></p>
 </div>
-</div>
+
 <hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=F7A810&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+🔗Connect+with+me+on+Linkedin!;">
