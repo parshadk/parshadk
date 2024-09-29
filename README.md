@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4169E1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parshad!⚡;" />
 </h1>
 
-<h1 align="left">Parshad Keni</h1> <img align='right' src="./github_img.png" width='200px'>
+<h1 align="left">Parshad Keni</h1> 
 <h3 align="left">Fullstack Web Developer 🕸️</h3>
-<img src="image-1.png" width="50px">
+
 
 - 🌱 I’m currently working on **NextJs, Typescript, Nodejs, Express.js and DSA**
 - 🤝 I’m looking to collaborate on: **Open-source projects that push the boundaries of innovation**
@@ -21,6 +21,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/parshadk/)
 
 <br/>
+
 ## ⚔️Languages and Tools: 
 <p align="center">
   <a href="https://skillicons.dev">
