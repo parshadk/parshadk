@@ -11,7 +11,7 @@
 - 🤝 I’m looking to collaborate on: **Open-source projects that push the boundaries of innovation**
 - 💬 Ask me about: **Anything that captivates your curiousity**
 - 📫 How to reach me **parshadk04@gmail.com**
-- 📑 Here's my [Resume](https://drive.google.com/file/d/1I8HJBPq1ZgNAeIsiz4ZyLNrB4vV_1bDV/view?usp=sharing)
+- 📑 Here's my [Resume]([https://drive.google.com/file/d/1I8HJBPq1ZgNAeIsiz4ZyLNrB4vV_1bDV/view?usp=sharing](https://drive.google.com/file/d/1C1v1ip9laBMUs-k2LlitjgeRsoIl4W20/view?usp=sharing))
 
 
 ## 🌐Let's Connect:
