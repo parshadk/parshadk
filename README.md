@@ -11,7 +11,7 @@
 - 🤝 I’m looking to collaborate on: **Open-source projects that push the boundaries of innovation**
 - 💬 Ask me about: **Anything that captivates your curiousity**
 - 📫 How to reach me **parshadk04@gmail.com**
-- 📑 My [Resume](https://drive.google.com/file/d/1dfJZSs3BOgvh8JCvbMcbmPf0WsfRwNN8/view?usp=sharing)
+- 📑 My [Resume](https://drive.google.com/file/d/13hVweagWYhOLJgaYCmZGHr0yc5IAd5-m/view?usp=sharing)
 - 📑 Here's my [POF](https://healthy-throne-08c.notion.site/Parshad-Keni-1c2d93c01d7380f2b7eee9e35b4d858d)
 
 
