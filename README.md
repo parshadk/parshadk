@@ -10,7 +10,7 @@
 - 🌱 I’m currently working on **NextJs, Typescript, Nodejs, Express.js and DSA**
 - 🤝 I’m looking to collaborate on: **Open-source projects that push the boundaries of innovation**
 - 💬 Ask me about: **Anything that captivates your curiousity**
-- 📫 How to reach me **parshadk04@gmail.com**
+
 
 
 
