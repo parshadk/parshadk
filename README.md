@@ -15,7 +15,7 @@
 
 
 ## 🌐Let's Connect:
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshadk04@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshadk1694@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshad-keni/)
 [![X](https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_parshad_1694)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/parshadk/)
